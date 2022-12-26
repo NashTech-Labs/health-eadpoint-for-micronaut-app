@@ -1,0 +1,5 @@
+[engine:junit-jupiter]/[class:example.knoldus.HelloControllerTest]/[method:testHello()]
+[engine:junit-jupiter]/[class:example.knoldus.HealthPathTest]/[method:healthEndpointExposedAtNonDefaultEndpointsPath()]
+[engine:junit-jupiter]/[class:example.knoldus.HealthTest]/[method:healthEndpointExposed()]
+[engine:junit-jupiter]/[class:example.knoldus.MicronautguideTest]/[method:testItWorks()]
+[engine:junit-jupiter]/[class:example.knoldus.PoorHealthTest]/[method:healthEndpointExposesOutOfDiscSpace()]
